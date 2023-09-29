@@ -16,7 +16,7 @@ This project contains source code to demonstrate how to work with JWT with Sprin
 3.  Spring Boot 3.x and Spring Security 6
 4.  MySQL 8.0
 5.  Docker Latest
-6.  Lombok*
+6.  Hibernate
 
 ## How to test
 

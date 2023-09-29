@@ -5,6 +5,7 @@ services:
     container_name: mysqldb
     environment:
       MYSQL_ROOT_PASSWORD: mysql
+      MYSQL_DATABASE: spring_security_jwt
     ports:
       - "3316:3306"
     volumes:
